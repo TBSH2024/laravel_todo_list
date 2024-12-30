@@ -1,0 +1,64 @@
+.
+|____database
+| |____database.sqlite
+| |____migrations
+| |____.gitignore
+| |____seeders
+| |____factories
+|____composer.lock
+|____tailwind.config.js
+|____phpunit.xml
+|____bootstrap
+| |____app.php
+| |____cache
+| |____providers.php
+|____app
+| |____Providers
+| |____Models
+| |____Http
+|____config
+| |____auth.php
+| |____app.php
+| |____mail.php
+| |____services.php
+| |____database.php
+| |____cache.php
+| |____session.php
+| |____queue.php
+| |____logging.php
+| |____filesystems.php
+|____resources
+| |____css
+| |____js
+| |____views
+|____tests
+| |____Unit
+| |____Feature
+| |____TestCase.php
+|____vite.config.js
+|____.editorconfig
+|____storage
+| |____app
+| |____framework
+| |____logs
+|____README.md
+|____artisan
+|____public
+| |____favicon.ico
+| |____index.php
+| |____build
+| |____robots.txt
+| |____.htaccess
+|____directory_structure.txt
+|____.gitignore
+|____package-lock.json
+|____package.json
+|____.env
+|____.gitattributes
+|____docker-compose.yml
+|____.env.example
+|____postcss.config.js
+|____routes
+| |____console.php
+| |____web.php
+|____composer.json
